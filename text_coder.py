@@ -1,3 +1,5 @@
+### Basic text coder and encoder working on raw text files
+
 def text2code(fileI, fileO):
     with open(fileI, 'r') as file:
         text = file.read()
