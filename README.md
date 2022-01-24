@@ -17,6 +17,6 @@ The main topics are:
 
 The format is mainly Jupyter Notebook to make my considerations and implementations as clear as it was possible.
 
+### Guide
 ---
-
 My solutions are available in the *Notebooks* folder. Descriptions of the solved problems are in the *ProblemsDescriprion* folder.
