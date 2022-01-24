@@ -1,8 +1,10 @@
 # Algorithms and Data Structures - solved problems
 
-## Author: Mateusz Machaj
+## Author:
 
-## Wrocław University of Science and Technology, Faculty of Pure and Applied Mathematics, 2021/22.
+Mateusz Machaj
+
+Wrocław University of Science and Technology, Faculty of Pure and Applied Mathematics, 2021/22.
 
 ### Description
 ---
