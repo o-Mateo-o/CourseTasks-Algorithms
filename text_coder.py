@@ -1,4 +1,6 @@
-### Basic text coder and encoder working on raw text files
+##########################################################
+### Basic text coder and encoder. Works on raw text files.
+##########################################################
 
 def text2code(fileI, fileO):
     with open(fileI, 'r') as file:
